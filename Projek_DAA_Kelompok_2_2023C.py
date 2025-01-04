@@ -7,7 +7,7 @@ from streamlit_folium import st_folium
 import streamlit as st
 
 # Path to your dataset
-path = 'C:\\Project_UAS_DAA\\data\\east-java-cities-dataset.xlsx'
+path = './east-java-cities-dataset.xlsx'
 
 # Load and preprocess the dataset
 df = pd.read_excel(path)
