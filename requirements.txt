@@ -1,0 +1,4 @@
+pandas
+folium
+streamlit
+streamlit-folium
