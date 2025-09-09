@@ -3,6 +3,9 @@
 This repository reorganizes the original project into a professional, modular structure **without changing the original logic**. 
 All algorithms and UI behavior are preserved; we've only split the code into multiple files for clarity.
 
+## Preview UI
+<img src="./assets/image.png">
+
 ## How to run
 
 ```bash
